@@ -7,6 +7,6 @@ https://github.com/diogoalves/scrapper-hackernews
 | Code | Compression | Link |
 | ------ | ------ | ------ |
 | smaz | 23.35% | https://github.com/antirez/smaz |
-| shoco | 20.48% | https://github.com/antirez/smaz |
+| shoco | 20.48% | https://github.com/Ed-von-Schleck/shoco |
 | shoco trained for urls | 35.08% | https://github.com/diogoalves/benchmark-url-compression/tree/master/shoco-urlmodel |
 
