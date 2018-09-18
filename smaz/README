@@ -1,0 +1,3 @@
+SMAZ - compression for very small strings
+SMAZ was written by Salvatore Sanfilippo and is released under the BSD license. Check the COPYING file for more information.
+from https://github.com/antirez/smaz
